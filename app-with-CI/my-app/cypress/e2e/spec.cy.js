@@ -1,4 +1,3 @@
-
 describe('check Not Found (404)', ()=>{
   it('should return status 404 when visiting /unknown', ()=>{
     // See Request: https://docs.cypress.io/api/commands/request and 
